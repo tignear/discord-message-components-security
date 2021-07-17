@@ -1,0 +1,17 @@
+POST https://canary.discord.com/api/v9/interactions
+Authorization: {{token}}
+Content-Type: application/json
+
+{
+   "type":3,
+   "guild_id":"750031320205230311",
+   "channel_id":"750031320205230314",
+   "message_flags":0,
+   "message_id":"865840403311755272",
+   "application_id":"735835853372522546",
+   "data":{
+      "component_type":2,
+      "custom_id":"enabled-button",
+      "hash":"YEEU+JRk"
+   }
+}

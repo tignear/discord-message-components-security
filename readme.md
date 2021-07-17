@@ -1,0 +1,1 @@
+[discordのMessage Componentsで遊ぶときの注意事項](https://qiita.com/tignear/private/c5e8c5c5d2022f661615)
